@@ -108,7 +108,8 @@ ghosttrigger/
 - False positives may occur; manual verification of all findings is recommended.
 
 
-
+# License
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/github/choosealicense.com/blob/gh-pages/_licenses/mit.txt) file for details.
 
 
 
